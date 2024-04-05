@@ -1,7 +1,7 @@
 # Bus-Parking-Sensors
 ParkSense: Ultrasonic Bus Aid. A project for WCM555 at Seneca
 
-[User Manual](WCM-BusPark-Manual)
+[User Manual](WCM-BusPark-Manual.pdf)
 
 ## Overview
 ParkSense revolutionizes bus parking with ultrasonic technology, enhancing safety and efficiency in urban transit. By providing real-time proximity alerts, it aims to minimize collision risks, ensuring secure parking operations.
